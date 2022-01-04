@@ -2,15 +2,13 @@
 - 🔎 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 - 📙 Estou estudando algumas tecnologias como : Html5 e Css3, Javascript.
 
-##
-
 <div align="center">
   <a href="https://github.com/Gabriel-Kudlawiec">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Kudlawiec&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Kudlawiec&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
-  <img  align="right" height=120 src="https://thumbs.gfycat.com/AlarmedImpartialLeafhopper-max-1mb.gif">
+  <img  align="right" src="https://thumbs.gfycat.com/AlarmedImpartialLeafhopper-max-1mb.gif">
   <img  align="center" alt="Ga-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img  align="center" alt="Ga-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img  align="center" alt="Ga-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
