@@ -11,6 +11,7 @@
   <img  align="center" alt="Ga-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img  align="center" alt="Ga-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img  align="center" alt="Ga-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="Goku" height="150" style="border-radius:50px;" src="https://pa1.narvii.com/6282/e85148067661b442fb295ef8164f54cc529b73d2_hq.gif">
 </div>
 
 ##
